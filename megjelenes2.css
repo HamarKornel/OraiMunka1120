@@ -93,3 +93,7 @@ ol{
 ol>li{
     text-align: justify;
 }
+
+#cimcor{
+    border: black 5px solid;
+}
